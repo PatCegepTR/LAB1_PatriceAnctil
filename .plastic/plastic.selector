@@ -1,0 +1,4 @@
+repository "LAB1_PatriceAnctil@Pat_Cegep3R@cloud"
+  path "/"
+    br "/main"
+    co "/main"
